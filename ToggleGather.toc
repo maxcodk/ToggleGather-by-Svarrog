@@ -1,5 +1,6 @@
 ## Interface: 11200
 ## Notes: Toggle between Find Minerals and Find Herbs with a single key press
+## Title: |cff3fcf26ToggleGather|r  |cfff05cdc-Svarrog-|r
 ## Version: 3.0
 
 ToggleGather.lua
